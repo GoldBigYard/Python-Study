@@ -130,3 +130,6 @@ dmypy.json
 
 # IntelliJ directory
 .idea/
+
+# mac temp files
+.DS_Store
